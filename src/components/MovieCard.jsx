@@ -55,7 +55,9 @@ const styles = {
   input: {
     marginTop: "8px",
     padding: "4px",
-    width: "80%",
+    width: "90%",
+    height: "3%",
+    // borderRadius: "50%"
   },
   button: {
     marginTop: "8px",
